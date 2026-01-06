@@ -1,0 +1,6 @@
+processed_data
+*__pycache__*
+result
+*.mp4
+*.png
+*.pkl
